@@ -1,0 +1,23 @@
+{
+  "@@last_modified": "2019-10-22T10:08:58.272067",
+  "Github sample": "Github sample",
+  "@Github sample": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "Project Name: %s - Language: %s": "Project Name: %s - Language: %s",
+  "@Project Name: %s - Language: %s": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "Description: %s": "Description: %s",
+  "@Description: %s": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "Not found": "Not found",
+  "@Not found": {
+    "type": "text",
+    "placeholders": {}
+  }
+}
