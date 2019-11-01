@@ -151,3 +151,6 @@ samples, guidance on mobile development, and a full API reference.
 - By [basarozcan](https://github.com/basarozcan/awesome-flutter)
 - [Libraries of Flutter](https://pub.dev/)
 - [Widget of the week](https://www.youtube.com/watch?v=b_sQ9bMltGU&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG)
+
+## License
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
