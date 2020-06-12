@@ -69,7 +69,7 @@ Now, lets dive into the lib folder which has the main code for the application.
 Download or clone this repo by using the link below:
 
 ```
-http://git.coretechnology.pl/TechSigma/flutter-boilerplate.git
+https://github.com/rinlv/flutter-starter.git
 ```
 
 **Step 2:**
